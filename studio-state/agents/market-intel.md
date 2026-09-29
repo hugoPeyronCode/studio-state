@@ -35,12 +35,15 @@ Proposition :
 - Un nouvel entrant qui monte vite avec une production modeste.
 - Des créas qui marchent avec un hook simple, reproductible par IA.
 - Une mécanique connue, appliquée à un thème ou un public délaissé.
+- Le ou les jeux répondent à une tendance ascendante de marcher: comme le besoin de ce concentrer d'arrêter de scroller par example. Un lien avec un tendance sur les réseaux sociaux, plutôt de niche. 
 
 ### 1.4 Signaux no go
 *Question : qu'est-ce qui élimine une niche d'office ?*
 
 Proposition :
 - Leaders avec plusieurs années de liveops et de contenu.
+- Un marcher avec énormément de compétitions, des VC actifs dans le secteur (typiquement l'hybrid casual puzzle et la Turquie mais aussi le Match3)
+- Niche minuscule et trop spécifique
 - Monétisation dépendante des whales (IAP à gros paniers).
 - Rendu impossible à produire par IA avec une qualité suffisante.
 - Licence ou marque au cœur de l'attrait.
