@@ -9,7 +9,7 @@ Version 0.1 · Propriétaire : Hugo
 
 ---
 
-## Partie 1 : mission et jugement (À ÉCRIRE PAR HUGO)
+## Partie 1 : mission et jugement
 
 Réponds à chaque question en quelques lignes, puis supprime les propositions qui ne te conviennent pas.
 Ces propositions sont là pour t'amorcer. Réécris-les avec tes mots et tes seuils.
